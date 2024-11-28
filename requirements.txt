@@ -1,0 +1,6 @@
+pandas
+chardet
+google
+google-api-python-client
+google-cloud-storage
+pandas_gbq
